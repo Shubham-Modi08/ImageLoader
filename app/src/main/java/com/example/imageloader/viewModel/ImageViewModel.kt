@@ -23,7 +23,7 @@ class ImageViewModel : ViewModel() {
                 Log.d("ImageViewModel", imageList.toString())
                 _images.postValue(imageList.map { it.thumbnail })
             } catch (e: Exception) {
-
+                Log.e("ImageViewModel", "Error fetching images", e)
             }
         }
     }
