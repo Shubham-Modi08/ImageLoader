@@ -18,7 +18,8 @@ Dependencies: No third-party image loading libraries are used.
 
 Usage Instructions
 
-Clone the repository from GitHub: ImageLoader Repository
+Clone the repository from GitHub: [ImageLoader Repository](https://github.com/Shubham-Modi08/ImageLoader)
+
 Open the project in Android Studio.
 Build and run the project on an Android device or emulator.
 Navigate through the image grid and observe smooth scrolling and efficient loading.
